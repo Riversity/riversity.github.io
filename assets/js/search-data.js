@@ -16,19 +16,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-post-with-formatting-and-links",
+        },{id: "post-my-homepage-is-up",
         
-          title: "a post with formatting and links",
+          title: "My homepage is up!",
         
-        description: "march &amp; april, looking forward to summer",
+        description: "The construction of this site",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/formatting-and-links/";
+            window.location.href = "/blog/2025/setting-up-a-jekyll-page/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-i-received-a-cny-10000-scholarship-from-sjtu",
+          title: 'I received a CNY¥10000 scholarship from SJTU!',
+          description: "",
+          section: "News",},{id: "news-i-am-honored-with-the-silver-medal-8th-place-in-sjtu-zjuctf-2025",
+          title: 'I am honored with the silver medal (8th place) in SJTU×ZJUCTF 2025!',
           description: "",
           section: "News",},{
         id: 'social-cv',
