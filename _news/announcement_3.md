@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My personal **Fediverse** (Pleroma) instance is now live at [fedi.yijia.ma](fedi.yijia.ma)!
+My personal **Fediverse** (Pleroma) instance is now live at [fedi.yijia.ma](https://fedi.yijia.ma)!
