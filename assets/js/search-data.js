@@ -33,6 +33,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-honored-with-the-silver-medal-8th-place-in-sjtu-zjuctf-2025",
           title: 'I am honored with the silver medal (8th place) in SJTU×ZJUCTF 2025!',
           description: "",
+          section: "News",},{id: "news-my-personal-fediverse-pleroma-instance-is-now-live-at-fedi-yijia-ma",
+          title: 'My personal Fediverse (Pleroma) instance is now live at fedi.yijia.ma!',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
