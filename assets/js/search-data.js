@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-my-homepage-is-up",
+        },{id: "post-擁抱-rime-拋棄流氓輸入法",
+        
+          title: "擁抱 RIME ，拋棄流氓輸入法",
+        
+        description: "Use RIME to enjoy typing",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/rime-ime/";
+          
+        },
+      },{id: "post-my-homepage-is-up",
         
           title: "My homepage is up!",
         
