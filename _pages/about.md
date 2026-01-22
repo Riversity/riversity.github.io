@@ -29,7 +29,7 @@ announcements:
 
 I am a 3<sup>rd</sup>-year undergraduate student at **ACM Honors Class, Shanghai Jiao Tong University** majoring in Computer Science.
 
-My research interests lie in the field of **computer security**, with a particular focus on **secure decentralized systems**. Decentralized applications are gaining momentum, and it is critical to establish the underlying architectural basis.
+My research interests lie in the field of **computer security**, with a particular focus on **secure systems** and **secure computation**.
 
 I am broadly interested in the **architectures, protocols, and cryptographic foundations** that ensure confidentiality and integrity. I am currently exploring methods for achieving privacy and integrity, including **Trusted Execution Environments (TEEs)**, cryptographic techniques, oblivious data structures, and I am also interested in potential vulnerabilities and exploitations in such systems.
 
